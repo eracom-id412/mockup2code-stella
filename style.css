@@ -33,4 +33,9 @@ ul {
             color: rgba(255, 169, 15, 1);
             border-radius: 8px;
           }
-    
+.title {
+  text-align: center;
+}
+.soustitle {
+color: rgba(255, 169, 15, 1);
+}
