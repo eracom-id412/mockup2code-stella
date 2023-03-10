@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Volkhov:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap');
 
 nav {
   display: flex;
@@ -19,8 +20,10 @@ ul {
     align-items: baseline;
     display: flex;
     padding: 0;
-    font-family: "Open Sans";
+    font-family: "Abeezee";
     flex-direction: row-reverse;
+    font-style: italic;
+    
   }
 
   li {
@@ -29,7 +32,7 @@ ul {
 
   a {
     text-decoration: none;
-    color: black;
+    color: #212832;
      }
      
      li {
@@ -54,13 +57,16 @@ ul {
   font-family: Volkhov;
   margin: 100px;
   font-weight: 700;
+
+ color: #14183E;
 }
 
 .soustitle {
   font-family: 'Poppins';
-  font-size: 20px;
-  color: rgba(255, 169, 15, 1);
-  font-weight: 600;
+  font-size: 18px;
+  color: #FFA90F;
+  font-weight: 500;
+  line-height: 27px;
 }
 
 .container {
@@ -70,6 +76,7 @@ ul {
   margin: 150px;
   margin-top: 100px;
   text-align: center;
+  
 }
 
 .box {
@@ -95,16 +102,18 @@ ul {
   font-size: 16px;
   margin-left: 60px;
   margin-right: 60px;
-  font-weight : 500;
+  font-weight : 400;
   line-height: 26px;
   
-  color: gray;
+  color: #5E6282;
 }
 
 .titlebox{
   font-family: 'Open Sans';
   font-weight : 600;
   font-size: 20px;
+
+  color: #1E1D4C;
 }
 .carre{
 position: absolute;
@@ -132,14 +141,17 @@ width: 152px;
 height: 66px;
 left: 400px;
 top: 970px;
+
+color: #181E4B;
 }
 
 .jadootexte {
   font-family: 'Poppins';
 font-style: normal;
-font-weight: 400;
+font-weight: 500;
 font-size: 13px;
 color: #5E6282;
+line-height: 16.19px;
 
 position: absolute;
 width: 207px;
@@ -161,6 +173,8 @@ font-style: normal;
 font-weight: 700;
 font-size: 21px;
 line-height: 124.5%;
+
+color: #080809;
 }
 
 .compagnytexte {
@@ -192,6 +206,8 @@ font-style: normal;
 font-weight: 700;
 font-size: 21px;
 line-height: 124.5%;
+
+color: #080809;
 }
 
 .contacttexte {
@@ -223,6 +239,8 @@ font-style: normal;
 font-weight: 700;
 font-size: 21px;
 line-height: 124.5%;
+
+color: #080809;
 }
 
 .moretexte {
