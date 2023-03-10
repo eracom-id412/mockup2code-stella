@@ -67,6 +67,7 @@ ul {
   color: #FFA90F;
   font-weight: 500;
   line-height: 27px;
+  height: 40px;
 }
 
 .container {
@@ -120,7 +121,7 @@ position: absolute;
 width: 100px;
 height: 100px;
 left: 490px;
-top: 780px;
+top: 790px;
 z-index: 1;
 
 background: #DF6951;
@@ -298,3 +299,8 @@ color: #5E6282;
 
 .app { 
   margin-top:15px }
+
+
+  footer {
+height: 300px;
+  }
