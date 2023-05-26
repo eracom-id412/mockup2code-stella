@@ -304,3 +304,15 @@ color: #5E6282;
   footer {
 height: 300px;
   }
+
+
+  .changeTheme {
+    background: #1D1E22;
+    color: #eee;
+
+  }
+
+  .changeTheme .title {
+   color: white
+  }
+  

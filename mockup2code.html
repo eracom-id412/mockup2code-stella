@@ -6,8 +6,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+
+    <title>Toggle - Dark Theme</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+
 </head>
 <body>
+
+  <div id="theme-btn" class="far fa-moon"></div>
+
+  <script>
+    const themeBtn = document.getElementById("theme-btn");
+    themeBtn.onclick = () => {
+      themeBtn.classList.toggle("fa-sun");
+      if (themeBtn.classList.contains("fa-sun")) {
+        document.body.classList.add("changeTheme");
+      } else {
+        document.body.classList.remove("changeTheme");
+      }
+    }
+    </script>
+    
   <nav>
 <div class="logojadoo">  <img src="Jadoo.svg" alt=""></div>
 
@@ -25,6 +44,8 @@
 
     </nav>
 
+
+    
       <div class="title">
         <div class="soustitle">CATEGORY
         </div>
@@ -82,5 +103,6 @@
 
 </div>
       </footer>
+      <script src="script.js"></script>
 </body>
 </html>
