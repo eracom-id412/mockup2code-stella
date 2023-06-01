@@ -4,6 +4,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Volkhov:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap');
 
+.body {
+  background-image: url("nuage-clair.jpeg") }
+
 nav {
   display: flex;
   flex-direction: row;
@@ -41,7 +44,6 @@ ul {
       a {
         display: block;
         padding: 10px 30px;
-        background-color: #ffffff;
       }
 
         .button {
