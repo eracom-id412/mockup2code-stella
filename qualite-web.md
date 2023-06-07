@@ -19,7 +19,11 @@ Listez et expliquez les problèmes d'accessibilité que vous avez détecté sur 
 
 Description de votre amélioration: (2 pts)
 
+       J'ai mis un Texte altérnatif à mes icônes et mes images afin que les peronnes en situation d'handicaps, puissent, elles aussi, naviguer sur mon site en toute sérénité et compréhension.
+
 Dans quel cas cela aide l'utilisateur ? (2 pts)
+
+        Si par exemple une personnes ayant des troubles de la vue décide de se rendre sur mon site, arrivant devant les propositions de préstations, les icônes qui représente les quatre préstations ne sont pas très grand et visible pour tous le monde, alors lorsque nous passons au dessus, un texte de description s'affiche. (et si la personne le désire, se lise à voix haute)
 
 ### A11Y - Amélioration 2
 

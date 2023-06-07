@@ -4,8 +4,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Volkhov:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap');
 
-.body {
-  background-image: url("nuage-clair.jpeg") }
 
 nav {
   display: flex;
@@ -38,8 +36,6 @@ ul {
     color: #212832;
      }
      
-     li {
-      }
       
       a {
         display: block;
@@ -58,6 +54,8 @@ ul {
   font-size: 50px;
   font-family: Volkhov;
   margin: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
   font-weight: 700;
 
  color: #14183E;
@@ -71,6 +69,7 @@ ul {
   line-height: 27px;
   height: 40px;
 }
+
 
 .container {
   display: flex;
@@ -181,7 +180,7 @@ color: #080809;
 }
 
 .compagnytexte {
-  position: absolute;
+position: absolute;
 width: 55px;
 height: 22px;
 left: 680px;
@@ -315,6 +314,50 @@ height: 300px;
   }
 
   .changeTheme .title {
-   color: white
+   color: #eee;
   }
-  
+
+
+  .changeTheme .jadoo {
+    color: #eee;
+  }
+
+  .changeTheme .jadootexte {
+    color: #eee;
+  }
+
+  .changeTheme .compagny {
+    color: #eee;
+  }
+
+  .changeTheme .compagnytexte {
+    color: #8ea6c5;
+  }
+
+  .changeTheme .contact {
+    color: #eee;
+  }
+
+  .changeTheme .contacttexte {
+    color: #8ea6c5;
+  }
+
+  .changeTheme .more {
+    color: #eee;
+  }
+
+  .changeTheme .moretexte {
+    color: #8ea6c5;
+  }
+
+  .changeTheme .outboundtexte {
+    color: #eee ;
+  }
+
+  .changeTheme .rights {
+    color: #8ea6c5 ;
+  }
+
+  .changeTheme .link {
+    color: #eee ;
+  }
