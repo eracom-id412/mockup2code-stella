@@ -10,8 +10,33 @@
     <title>Toggle - Dark Theme</title>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
 
+  <style>
+
+   .containermedia {
+            width: 1700px;
+        }
+
+@media (max-width: 768px) {
+   .containermedia {
+      width: 90%;
+   }
+}
+
+@media (max-width: 480px) {
+    .containermedia {
+       width: 100%;
+   }
+        }
+</style>
+
 </head>
+
 <body>
+<div class="containermedia">
+
+    
+  <nav>
+<div class="logojadoo">  <img src="Jadoo.svg" alt="logo Jadoo"></div>
 
   <div id="theme-btn" class="far fa-moon"></div>
 
@@ -26,10 +51,6 @@
       }
     }
     </script>
-    
-  <nav>
-<div class="logojadoo">  <img src="Jadoo.svg" alt="logo Jadoo"></div>
-
     <ul>
       
         <li><a class="link" href="default.asp">EN</a></li>
@@ -105,6 +126,7 @@
 
 </div>
    </footer>
-  
+</div>
 </body>
+
 </html>

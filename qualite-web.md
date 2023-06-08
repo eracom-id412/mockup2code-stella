@@ -29,8 +29,12 @@ Dans quel cas cela aide l'utilisateur ? (2 pts)
 
 Description de votre amélioration: (2 pts)
 
+                J'ai mis en place un dark mode. En tant qu'utilisateur, nous pouvons facilement switcher entre le light et le dark mode avec le petit bouton de lune/soleil qui se situe en haut à gauche (à côté du logo).
+
 Dans quel cas cela aide l'utilisateur ? (2 pts)
 
+                Cette amélioration est intéressante car elle permet aux utilisateurs de choisir à tous moment s'ils désirent naviguer en mode clair ou sombre. 
+                Si par exemple, en tant qu'utilisateur, je me retrouve dans une pière complétement plongée dans le noir, je vais peut-être être dérangée par la lumière puissante que mon écran projette en étant en light mode... Je vais donc pouvoir passer en dark mode pour me sentire plus à l'aise avec la luminosité globale de mon écran et permettre à mes yeux de ne pas s'abîmer.
 ---
 
 ## Performance
@@ -47,11 +51,18 @@ Dans quel cas cela aide l'utilisateur ? (2 pts)
 
 Description + Pourquoi faire cette amélioration? (2 pts)
 
+        J'ai essayé d'ajouter une media querie sur mon site, mais malheureusement je crois que ça ne marche qu'à moitié... J'ai essayer beaucoup de choses pour que cette fonction marche correctement mais je crois que ça marche pas super. Bref, je voulais quand même mettre ça dans une de mes améliorations parce que je pense que c'est déjà bien d'essayer et de voir ce que c'est.
+
+        Je voulais mettre cette media querie afin de rendre mon site web responsive et adapté à tous type d'écran afin que tous le monde puisse y accéder sans perturbation depuis son écran personnel.
+
+
 Indiquer le gain de performance mesuré (1 pt)
 
 ### Performance - Amélioration 2
 
 Description + Pourquoi faire cette amélioration? (2 pts)
+
+
 
 Indiquer le gain de performance mesuré (1 pt)
 
