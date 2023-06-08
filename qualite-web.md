@@ -51,7 +51,7 @@ Dans quel cas cela aide l'utilisateur ? (2 pts)
 
 Description + Pourquoi faire cette amélioration? (2 pts)
 
-        J'ai essayé d'ajouter une media querie sur mon site, mais malheureusement je crois que ça ne marche qu'à moitié... J'ai essayer beaucoup de choses pour que cette fonction marche correctement mais je crois que ça marche pas super. Bref, je voulais quand même mettre ça dans une de mes améliorations parce que je pense que c'est déjà bien d'essayer et de voir ce que c'est.
+        J'ai essayé d'ajouter une media querie sur mon site, mais malheureusement je crois que ça ne marche qu'à moitié... J'ai essayer beaucoup de choses pour que cette fonction marche correctement mais je crois que ça marche pas super. Bref, je voulais quand même mettre ça dans une de mes améliorations parce que je pense que dans un projet c'est déjà bien d'essayer et de perséverser même si je n'arrive pas à obternir ce que je veux au final, au moins j'ai appris à quoi sert une media querie et comment s'en servir.
 
         Je voulais mettre cette media querie afin de rendre mon site web responsive et adapté à tous type d'écran afin que tous le monde puisse y accéder sans perturbation depuis son écran personnel.
 
@@ -61,6 +61,8 @@ Indiquer le gain de performance mesuré (1 pt)
 ### Performance - Amélioration 2
 
 Description + Pourquoi faire cette amélioration? (2 pts)
+
+
 
 
 
